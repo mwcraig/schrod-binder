@@ -1,0 +1,10 @@
+name: schrod-binder
+dependencies:
+- matplotlib
+- ipython
+- jupyter
+- ipywidgets
+- scipy
+- nose
+- mock
+- funcsigs
